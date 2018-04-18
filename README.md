@@ -2,6 +2,9 @@
 
 ## Data Analysis
 
+#### [Hadley Wickham Showing Off](https://www.youtube.com/watch?v=go5Au01Jrvs)
+A video of Hadley Wickham showing how he does exploratory data analysis.
+
 #### [Pandas tutorials](https://pandas.pydata.org/pandas-docs/stable/tutorials.html)
 The offical pandas docs sometimes leave a bit to be desired, but the tutorials and exercises here are very useful.
 
