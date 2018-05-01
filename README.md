@@ -16,22 +16,22 @@ A great resource not only for learning about what makes a good visualization, bu
 #### [Design for an Audience](http://style.org/ku/)
 This is a transcript of an excellent talk from Jonathan Corum, the science graphics editor at the New York Times.
 
-#### [Storytelling With Data](storytellingwithdata.com)
+#### [Storytelling With Data](http://storytellingwithdata.com)
 Storytelling With Data is a blog all about improving your visualizations. There's often figure fix ups and reader competitions.
 
 ## Machine Learning
 
-#### [fast.ai](fast.ai)
+#### [fast.ai](http://fast.ai)
 Fast.ai has both a deep learning course and a (currently unlisted) basic machine learning course.
 
-#### [Kaggle](kaggle.com)
+#### [Kaggle](http://kaggle.com)
 Kaggle hosts machine learning competitions. The titanic dataset is a good place to start.
 
 ## Miscellaneous 
 
 ## Packages/Tools
 
-#### [Altair](altair-viz.github.io)
+#### [Altair](http://altair-viz.github.io)
 This package allows you to create graphs declaratively, similar to ggplot. However, it is made for python and sits ontop of D3.js, so interactive plots can be made easily. 
 
 #### [Data Illustrator](http://www.data-illustrator.com/)
