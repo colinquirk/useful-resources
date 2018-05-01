@@ -13,6 +13,9 @@ The offical pandas docs sometimes leave a bit to be desired, but the tutorials a
 #### [Data Visualization Checklist](https://datavizchecklist.stephanieevergreen.com/)
 A great resource not only for learning about what makes a good visualization, but allows you to check your own figures.
 
+### [Design for an Audience](http://style.org/ku/)
+This is a transcript of an excellent talk from Jonathan Corum, the science graphics editor at the New York Times.
+
 #### [Storytelling With Data](storytellingwithdata.com)
 Storytelling With Data is a blog all about improving your visualizations. There's often figure fix ups and reader competitions.
 
