@@ -22,6 +22,17 @@ This is a transcript of an excellent talk from Jonathan Corum, the science graph
 #### [Storytelling With Data](http://storytellingwithdata.com)
 Storytelling With Data is a blog all about improving your visualizations. There's often figure fix ups and reader competitions.
 
+## Learning to Program
+
+#### [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+In my opinion, it's the best intro to python book that I've come across. 
+
+#### [Codecademy](https://www.codecademy.com/)
+Codecademy is sometimes criticized as it leaves beginners without an understanding of how to actually write a program. However, as a bare bones intro or syntax refresher I think it does a great job. Just pair it with a book afterwards.
+
+#### [Sentdex](https://www.youtube.com/user/sentdex)
+Sentdex has amazing video tutorials for almost everything you could want to do with data in python.
+
 ## Machine Learning
 
 #### [fast.ai](http://fast.ai)
@@ -30,7 +41,13 @@ Fast.ai has both a deep learning course and a (currently unlisted) basic machine
 #### [Kaggle](http://kaggle.com)
 Kaggle hosts machine learning competitions. The titanic dataset is a good place to start.
 
-## Miscellaneous 
+## Miscellaneous
+
+#### [3Blue1Brown](https://www.youtube.com/c/3blue1brown)
+These are a series of excellent math tutorials. 3Blue1Brown uses beautiful visualizations to try to make complex topics clear, and focuses on teaching at a conceptual level. I found the linear algebra course to be particularly useful.
+
+#### [New and Improved Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+The old version of this tutorial was incredibly helpful for making my website. It's incredibly comprehensive and now up-to-date.
 
 ## Packages/Tools
 
