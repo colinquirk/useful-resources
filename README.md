@@ -8,6 +8,9 @@ A video of Hadley Wickham showing how he does exploratory data analysis.
 #### [Pandas tutorials](https://pandas.pydata.org/pandas-docs/stable/tutorials.html)
 The offical pandas docs sometimes leave a bit to be desired, but the tutorials and exercises here are very useful.
 
+#### [R for Data Science](http://r4ds.had.co.nz/)
+The excellent book by Hadley Wickham about all things R related.
+
 ## Data Visualization
 
 #### [Data Visualization Checklist](https://datavizchecklist.stephanieevergreen.com/)
