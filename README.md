@@ -47,7 +47,7 @@ Kaggle hosts machine learning competitions. The titanic dataset is a good place 
 These are a series of excellent math tutorials. 3Blue1Brown uses beautiful visualizations to try to make complex topics clear, and focuses on teaching at a conceptual level. I found the linear algebra course to be particularly useful.
 
 #### [New and Improved Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
-The old version of this tutorial was incredibly helpful for making my website. It's incredibly comprehensive and now up-to-date.
+The old version of this tutorial was incredibly helpful for making my website. It's comprehensive and now up-to-date.
 
 ## Packages/Tools
 
