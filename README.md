@@ -52,6 +52,9 @@ A useful article describing how to calculate effect sizes in a number of differe
 #### [New and Improved Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 The old version of this tutorial was incredibly helpful for making my website. It's comprehensive and now up-to-date.
 
+#### [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
+A thorough description of R Markdown and everything you can do with it.
+
 ## Packages/Tools
 
 #### [Altair](http://altair-viz.github.io)
