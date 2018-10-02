@@ -55,6 +55,9 @@ The old version of this tutorial was incredibly helpful for making my website. I
 #### [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
 A thorough description of R Markdown and everything you can do with it.
 
+#### [Speeding up R Package Installation](http://www.rexamine.com/2015/07/speeding-up-r-package-installation-process/)
+Really useful for slower computers.
+
 ## Packages/Tools
 
 #### [Altair](http://altair-viz.github.io)
