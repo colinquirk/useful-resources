@@ -2,6 +2,9 @@
 
 ## Data Analysis
 
+#### [Data Wrangling with Dplyr](https://suzan.rbind.io/2018/01/dplyr-tutorial-1/)
+A useful overview of less used dplyr functions. The first post in a series of four.
+
 #### [Hadley Wickham Showing Off](https://www.youtube.com/watch?v=go5Au01Jrvs)
 A video of Hadley Wickham showing how he does exploratory data analysis.
 
