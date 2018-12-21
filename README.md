@@ -49,9 +49,6 @@ Kaggle hosts machine learning competitions. The titanic dataset is a good place 
 #### [3Blue1Brown](https://www.youtube.com/c/3blue1brown)
 These are a series of excellent math tutorials. 3Blue1Brown uses beautiful visualizations to try to make complex topics clear, and focuses on teaching at a conceptual level. I found the linear algebra course to be particularly useful.
 
-#### [Calculating Effect Sizes](https://osf.io/6zxd2/)
-A useful article describing how to calculate effect sizes in a number of different situations, including spreadsheets to do the calculations. 
-
 #### [New and Improved Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 The old version of this tutorial was incredibly helpful for making my website. It's comprehensive and now up-to-date.
 
@@ -68,3 +65,11 @@ This package allows you to create graphs declaratively, similar to ggplot. Howev
 
 #### [Data Illustrator](http://www.data-illustrator.com/)
 I haven't tried this, but it looks like an interesting tool for interactively building plots without code. 
+
+## Statistics
+
+#### [Calculating Effect Sizes](https://osf.io/6zxd2/)
+A useful article describing how to calculate effect sizes in a number of different situations, including spreadsheets to do the calculations. 
+
+#### [Stan Intro](https://ourcodingclub.github.io/2018/04/17/stan-intro.html)
+This is a great intro to stan using a practical example workflow.
