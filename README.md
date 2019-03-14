@@ -25,6 +25,9 @@ This is a transcript of an excellent talk from Jonathan Corum, the science graph
 #### [Storytelling With Data](http://storytellingwithdata.com)
 Storytelling With Data is a blog all about improving your visualizations. There's often figure fix ups and reader competitions.
 
+#### [Esquisse](https://github.com/dreamRs/esquisse)
+An interactive ggplot creator, useful for ggplot beginners
+
 ## Learning to Program
 
 #### [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
