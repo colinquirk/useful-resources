@@ -16,17 +16,23 @@ The excellent book by Hadley Wickham about all things R related.
 
 ## Data Visualization
 
+#### [Altair](http://altair-viz.github.io)
+This package allows you to create graphs declaratively, similar to ggplot. However, it is made for python and sits ontop of D3.js, so interactive plots can be made easily. 
+
+#### [Data Illustrator](http://www.data-illustrator.com/)
+I haven't tried this, but it looks like an interesting tool for interactively building plots without code. 
+
 #### [Data Visualization Checklist](https://datavizchecklist.stephanieevergreen.com/)
 A great resource not only for learning about what makes a good visualization, but allows you to check your own figures.
 
 #### [Design for an Audience](http://style.org/ku/)
 This is a transcript of an excellent talk from Jonathan Corum, the science graphics editor at the New York Times.
 
-#### [Storytelling With Data](http://storytellingwithdata.com)
-Storytelling With Data is a blog all about improving your visualizations. There's often figure fix ups and reader competitions.
-
 #### [Esquisse](https://github.com/dreamRs/esquisse)
 An interactive ggplot creator, useful for ggplot beginners
+
+#### [Storytelling With Data](http://storytellingwithdata.com)
+Storytelling With Data is a blog all about improving your visualizations. There's often figure fix ups and reader competitions.
 
 ## Learning to Program
 
@@ -61,18 +67,16 @@ A thorough description of R Markdown and everything you can do with it.
 #### [Speeding up R Package Installation](http://www.rexamine.com/2015/07/speeding-up-r-package-installation-process/)
 Really useful for slower computers.
 
-## Packages/Tools
-
-#### [Altair](http://altair-viz.github.io)
-This package allows you to create graphs declaratively, similar to ggplot. However, it is made for python and sits ontop of D3.js, so interactive plots can be made easily. 
-
-#### [Data Illustrator](http://www.data-illustrator.com/)
-I haven't tried this, but it looks like an interesting tool for interactively building plots without code. 
-
 ## Statistics
+
+#### [A Hands-On Example of Bayesian Mixed Models with brms](https://www.youtube.com/watch?v=1p_Us5WFQ7w)
+This is a really useful intro to brms, a package that makes working with bayesian hierarchical mixed models in stan really easy.
 
 #### [Calculating Effect Sizes](https://osf.io/6zxd2/)
 A useful article describing how to calculate effect sizes in a number of different situations, including spreadsheets to do the calculations. 
 
 #### [Stan Intro](https://ourcodingclub.github.io/2018/04/17/stan-intro.html)
 This is a great intro to stan using a practical example workflow.
+
+#### [Statistical Rethinking](https://www.youtube.com/playlist?list=PLDcUM9US4XdNM4Edgs7weiyIguLSToZRI)
+Richard McElreath's excellent course on bayesian statistics. Useful even for people who are feel like they need some help understanding the foundation of frequentist analyses.
