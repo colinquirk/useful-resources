@@ -48,7 +48,7 @@ Sentdex has amazing video tutorials for almost everything you could want to do w
 ## Machine Learning
 
 #### [fast.ai](http://fast.ai)
-Fast.ai has both a deep learning course and a (currently unlisted) basic machine learning course.
+Fast.ai has both a deep learning course and a basic machine learning course. It's unique from other resources as it builds top down and explains concepts through code rather than math.
 
 #### [Kaggle](http://kaggle.com)
 Kaggle hosts machine learning competitions. The titanic dataset is a good place to start.
