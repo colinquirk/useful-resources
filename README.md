@@ -76,7 +76,7 @@ This is a really useful intro to brms, a package that makes working with bayesia
 A useful article describing how to calculate effect sizes in a number of different situations, including spreadsheets to do the calculations. 
 
 #### [PBR Special Issue](https://link.springer.com/journal/13423/25/1/page/1)
-Interested in Bayes stats for psychology? This special issue in PBR has a to of excellent papers on the topic.
+Interested in Bayes stats for psychology? This special issue in PBR has a ton of excellent papers on the topic.
 
 #### [Stan Intro](https://ourcodingclub.github.io/2018/04/17/stan-intro.html)
 This is a great intro to stan using a practical example workflow.
