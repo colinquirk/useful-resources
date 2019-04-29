@@ -42,6 +42,9 @@ In my opinion, it's the best intro to python book that I've come across.
 #### [Codecademy](https://www.codecademy.com/)
 Codecademy is sometimes criticized as it leaves beginners without an understanding of how to actually write a program. However, as a bare bones intro or syntax refresher I think it does a great job. Just pair it with a book afterwards.
 
+#### [Mode SQL Tutorial](https://mode.com/sql-tutorial/introduction-to-sql/)
+SQL is great if you are working with larger datasets, or even just for understanding the philosophy underneath many data analysis toosl. Mode's tutorial is all interactive so you get to actually practice with real data. If you have experience analyzing data already, SQL is relatively quick to pick up for how valuable it is.
+
 #### [Sentdex](https://www.youtube.com/user/sentdex)
 Sentdex has amazing video tutorials for almost everything you could want to do with data in python.
 
@@ -74,6 +77,9 @@ This is a really useful intro to brms, a package that makes working with bayesia
 
 #### [Calculating Effect Sizes](https://osf.io/6zxd2/)
 A useful article describing how to calculate effect sizes in a number of different situations, including spreadsheets to do the calculations. 
+
+#### [Distill Article on Gaussian Processes](https://distill.pub/2019/visual-exploration-gaussian-processes/)
+Gaussian Processes are really cool, but they never clicked for me until I saw this paper. Distill is also just an awesome model for what scientific publishing could like like in the future.
 
 #### [PBR Special Issue](https://link.springer.com/journal/13423/25/1/page/1)
 Interested in Bayes stats for psychology? This special issue in PBR has a ton of excellent papers on the topic.
