@@ -81,6 +81,9 @@ A useful article describing how to calculate effect sizes in a number of differe
 #### [Distill Article on Gaussian Processes](https://distill.pub/2019/visual-exploration-gaussian-processes/)
 Gaussian Processes are really cool, but they never clicked for me until I saw this paper. Distill is also just an awesome model for what scientific publishing could like like in the future.
 
+#### [An Intro to GAMs by Michael Clark](https://m-clark.github.io/generalized-additive-models/)
+If you wish your GLMs were wigglier you should start here.
+
 #### [PBR Special Issue](https://link.springer.com/journal/13423/25/1/page/1)
 Interested in Bayes stats for psychology? This special issue in PBR has a ton of excellent papers on the topic.
 
