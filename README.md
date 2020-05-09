@@ -75,6 +75,9 @@ Really useful for slower computers.
 #### [A Hands-On Example of Bayesian Mixed Models with brms](https://www.youtube.com/watch?v=1p_Us5WFQ7w)
 This is a really useful intro to brms, a package that makes working with bayesian hierarchical mixed models in stan really easy.
 
+#### [An Introduction to Hierarchical Modeling](http://mfviz.com/hierarchical-models/)
+A great visual demo of what is happening in a hierarchical linear model (AKA a random or mixed effects model).
+
 #### [Calculating Effect Sizes](https://osf.io/6zxd2/)
 A useful article describing how to calculate effect sizes in a number of different situations, including spreadsheets to do the calculations. 
 
