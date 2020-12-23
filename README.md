@@ -93,5 +93,8 @@ Interested in Bayes stats for psychology? This special issue in PBR has a ton of
 #### [Stan Intro](https://ourcodingclub.github.io/2018/04/17/stan-intro.html)
 This is a great intro to stan using a practical example workflow.
 
+#### [Bayesian inference for psychologists using R & Stan](https://www.youtube.com/playlist?list=PLu77iLvsj_GNmWqDdX-26kZ56dCZqkzBO)
+Bayesian stats specifically for psychologists
+
 #### [Statistical Rethinking](https://www.youtube.com/playlist?list=PLDcUM9US4XdNM4Edgs7weiyIguLSToZRI)
 Richard McElreath's excellent course on bayesian statistics. Useful even for people who are feel like they need some help understanding the foundation of frequentist analyses.
