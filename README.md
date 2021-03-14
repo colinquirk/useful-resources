@@ -53,6 +53,9 @@ Sentdex has amazing video tutorials for almost everything you could want to do w
 #### [fast.ai](http://fast.ai)
 Fast.ai has both a deep learning course and a basic machine learning course. It's unique from other resources as it builds top down and explains concepts through code rather than math.
 
+#### [Jeremy Howard's ML Course](https://course18.fast.ai/ml)
+A great, practical introduction to machine learning. Large focus on immediately useful tools like regression, random forest and xgboost.
+
 #### [Kaggle](http://kaggle.com)
 Kaggle hosts machine learning competitions. The titanic dataset is a good place to start.
 
