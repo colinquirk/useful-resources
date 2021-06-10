@@ -90,6 +90,9 @@ Gaussian Processes are really cool, but they never clicked for me until I saw th
 #### [An Intro to GAMs by Michael Clark](https://m-clark.github.io/generalized-additive-models/)
 If you wish your GLMs were wigglier you should start here.
 
+#### [MCMC Sampling Demo](http://chi-feng.github.io/mcmc-demo/)
+A great introduction about how MCMCs sample distriubtions and why NUTS is useful.
+
 #### [PBR Special Issue](https://link.springer.com/journal/13423/25/1/page/1)
 Interested in Bayes stats for psychology? This special issue in PBR has a ton of excellent papers on the topic.
 
